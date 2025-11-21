@@ -24,11 +24,20 @@ Curah hujan merupakan faktor penting dalam analisis iklim dan mitigasi bencana s
 
      Digunakan untuk memprediksi nilai curah hujan pada periode selanjutnya berdasarkan pola historis.
 
+
      b. Isolation Forest
 
      Digunakan untuk mendeteksi anomali pada data curah hujan.
 
 4. Hasil
     - Visualisasi Prediksi dan Aktual
-      <img src="LSTM Predict.png" width="400">
+      <img src="LSTM Predict.png">
+      
+   - Visualisasi Deteksi Anomali
+      <img src="boxplot if.png">
+
+5. Insight Penelitian
+   
+   - LSTM memberikan hasil yang optimal.
+   - Isolation Forest mampu mengidentifikasi data normal dan anomali.
 
